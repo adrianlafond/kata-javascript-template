@@ -21,4 +21,3 @@ Lint the code once.
 
 ### `npm run lint:watch`
 Lint the code in watch mode.
-
